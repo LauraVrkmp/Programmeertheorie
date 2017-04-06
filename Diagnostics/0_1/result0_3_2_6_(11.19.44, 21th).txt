@@ -1,0 +1,15 @@
+[(0, 3), (4, 5), (2, 1)]
+The lower boundary for this netlist: 8
+
+Length of path # 1 : 2
+0 3 0
+1 3 0
+2 3 0
+Length of path # 2 : 4
+0 4 0
+0 4 1
+1 4 1
+2 4 1
+2 4 0
+Number of paths found: 2 / 3
+The total length is: 6

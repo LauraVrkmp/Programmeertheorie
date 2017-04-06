@@ -1,0 +1,11 @@
+[(0, 1)]
+The lower boundary for this netlist: 2
+
+Length of path # 1 : 4
+0 1 0
+0 1 1
+1 1 1
+2 1 1
+2 1 0
+Number of paths found: 1 / 1
+The total length is: 4
